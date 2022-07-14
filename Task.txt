@@ -1,0 +1,24 @@
+Token Base authentication with mongoDB
+	-Registration
+	-Login
+
+Product Crud
+Add To Cart
+Billing info (Invoice)
+
+User Model 
+	_id
+	firstName
+	lastName
+	email
+	password
+
+add to cart model
+	_id
+	userId
+	productsId 	
+	
+invoice table
+	userId
+	cartId
+	total
